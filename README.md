@@ -1,4 +1,4 @@
-# FastbRoot, an Fastboot Unlock Code Generator
+# FastbRoot, a Fastboot Unlock Code Generator
 (For educational purposes only)
 
 A simple Bash script that generates and tests unlock codes for devices using `fastboot`. It iterates through possible code combinations until the correct unlock code is found. The script supports both numeric and alphanumeric codes, and it maintains its state between runs with a device-specific data file.
